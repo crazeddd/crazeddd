@@ -3,8 +3,6 @@ I run servers & screw around with code. Currently working on a Docker container 
 
 Currently studying at (high) school.
 
-He/Him
-
 Reach me @ _insert_contact_here_
 
 ### Expirence
