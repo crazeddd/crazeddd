@@ -1,7 +1,7 @@
 # Hi there I'm Crazed 👋
 I run servers & screw around with code. Currently working on a Docker container management app (mostly for fun).
 
-Currently studying at school.
+Currently studying at (high) school.
 
 He/Him
 
