@@ -10,7 +10,7 @@ Reach me @ _insert_contact_here_
 ### Expirence
 
 + 4+ Years hosting servers
-+ 3+ Years coding stuff
++ 4+ Years coding
 + 6+ Years working on Minecraft Servers
 
 ### Things I want to do
