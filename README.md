@@ -1,10 +1,14 @@
 # Hi there I'm Crazed 👋
 I run servers & screw around with code. Currently working on a Docker container management app (mostly for fun).
 
-Contact me: (Will update later)
+Currently studying at school.
+
+He/Him
+
+Reach me @ _insert_contact_here_
 
 # Tech Stack
-Node.js, Javascript, Python
+Node.js, Javascript, HTML, CSS, Pug/Jade, Python, Docker, Ubuntu, English 🤔
 
 
 
