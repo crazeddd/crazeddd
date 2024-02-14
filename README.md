@@ -11,7 +11,7 @@ Reach me @ _insert_contact_here_
 
 + 4+ Years hosting servers
 + 4+ Years coding
-+ 6+ Years working on Minecraft Servers
++ 6+ Years working on Minecraft Servers (specifically)
 
 ### Things I want to do
 
