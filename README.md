@@ -7,6 +7,17 @@ He/Him
 
 Reach me @ _insert_contact_here_
 
+### Expirence
+
++ 4+ Years hosting servers
++ 3+ Years coding stuff
++ 6+ Years working on Minecraft Servers
+
+### Things I want to do
+
++ Build a Minecraft Mod
++ Create a server host
+
 # Tech Stack
 Node.js, Javascript, HTML, CSS, Pug/Jade, Python, Docker, Ubuntu, English 🤔
 
