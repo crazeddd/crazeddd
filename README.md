@@ -11,7 +11,7 @@ Reach me @ _insert_contact_here_
 + 4+ Years coding
 
 # Tech Stack
-Node.js, Javascript, HTML, CSS, Pug/Jade, Python, Docker, Ubuntu
+Node.js, Js, HTML, CSS, Python, Docker
 
 
 
