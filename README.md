@@ -1,11 +1,9 @@
 # Hi there I'm Crazed 👋
-I run servers & screw around with code. Currently working on a Docker container management app (mostly for fun).
+I run servers & build trashy code.
 
-Currently studying at (high) school.
+Reach me @crazeddd on discord
 
-Reach me @ _insert_contact_here_
-
-### Expirence
+## Expirence
 
 + 4+ Years hosting servers
 + 4+ Years coding
