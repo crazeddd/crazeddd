@@ -1,4 +1,4 @@
-I run servers & build trashy code
+I run servers & code
 
 Reach me @crazeddd on discord
 
