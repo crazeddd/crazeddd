@@ -4,7 +4,7 @@ hi i do computer stuff
 
 - My server host -> [@kibi-host](https://kibihost.com)
 - Reach me at crazeddd on discord
-- [@FIRST Robotics](https://www.firstinspires.org/programs/frc/)
+- FRC [Team 2583](https://westwoodrobots.org)
 
 # Tech Stack
 js, html, css, scss, nodejs, typescript, python, java, docker, linux server (ubuntu/debian/alpine), traefik, nginx, bash, solidjs, react, vite, bun, hono, express, gsap, tailwind, bootstrap, supabase, mongodb, redis, sqlite, postgres, cloudflare stuff (workers, tunnels, etc).
