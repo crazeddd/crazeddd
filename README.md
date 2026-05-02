@@ -1,8 +1,8 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=crazeddd)](https://github.com/crazeddd/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazeddd)](https://github.com/crazeddd/github-readme-stats)
 
-I run servers & code :)
-
-Reach me @crazeddd on discord
+- Founder (@kibi-host)[https://kibihost.com]
+- Reach me @crazeddd on discord
+- (@FIRST Robotics)[https://www.firstinspires.org/programs/frc/]
 
 # Tech Stack
-Js, HTML, CSS, Node, Typescript, Python, Java, Docker, Solidjs, React, Bun, Hono, Express, Tailwind, Bootstrap, Supabase.
+js, html, css, nodejs, typescript, python, java, docker linux server (ubuntu/debian/alpine), traefik, nginx, bash, solidjs, react, vite, bun, hono, gsap, express, tailwind, bootstrap, supabase, mongodb, redis, sqlite, postgres, cf workers, cf tunnels.
