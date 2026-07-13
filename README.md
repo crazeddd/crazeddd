@@ -1,5 +1,3 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazeddd)](https://github.com/crazeddd/github-readme-stats)
-
 hi i do computer stuff
 
 - My server host -> [Kibi Host](https://kibihost.com)
